@@ -66,7 +66,15 @@ Due to availability upon application only, we cannot share the LSOA classificati
 
 If you use this framework or findings in your work, please cite the accompanying paper:
 
-@article{bisiani_2025_, title={Mapping News Geography: A Computational Framework for Classifying Local Media Through Geographic Coverage Patterns}, author={Bisiani, S., Gulyas, A., and Bahareh Heravi}, year={2025}, journal={Forthcoming}}
+@article{bisianiMappingNewsGeography2025,
+  title = {Mapping {{News Geography}}: {{A Computational Framework}} for {{Classifying Local Media Through Geographic Coverage Patterns}}},
+  author = {Bisiani, Simona and Gulyas, Agnes and Heravi, Bahareh},
+  editor = {Taylor Arnold, Margherita Fantoli and Ros, Ruben},
+  year = 2025,
+  journal = {Anthology of Computers and the Humanities},
+  volume = {3},
+  pages = {861--882}
+}
 
 ## Contact
 
